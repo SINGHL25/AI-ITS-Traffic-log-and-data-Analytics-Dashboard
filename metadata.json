@@ -1,0 +1,5 @@
+{
+  "name": "AI ITS/Traffic Analytics Dashboard",
+  "description": "An intelligent dashboard for parsing, analyzing, and visualizing various traffic and system logs. It leverages AI to provide root-cause analysis and operational recommendations.",
+  "requestFramePermissions": []
+}
